@@ -1,0 +1,123 @@
+body{
+	margin:0px auto 0px auto;
+}
+
+#fondo{
+	margin:0px auto 0px auto;
+	width:1200px;
+}
+
+#encabezado{
+	background-image:url("../images/fondocabecera.png");
+	width:100%;
+	height:190px;
+}
+
+#logo{
+    margin-left:225px;
+
+}
+
+#facebook{
+	float: right;
+	margin-right:115px;
+	margin-top:94px;
+}
+
+#twitter{
+	float: right;
+	margin-top:94px;
+	margin-right:10px; 
+}
+
+#enlaces{
+	width:100%;
+	height:30px;
+	margin-top:25px;
+}
+
+#enlaces ul{
+	display:block;
+	margin-left:180px;
+}
+
+#enlaces li{
+	display:inline-block;
+    margin-right:40px;
+}
+
+#enlaces a{
+	text-align:center;  
+	margin-right:5px;
+	font-family:Myriad Pro;
+	color: #fc9e07;
+	width:150px;
+	text-decoration:none;
+	padding: 0px 0px 0px 0px;
+}
+
+#enlaces a:hover{
+	background-color:#8aa014;
+}
+
+#about_us{
+	width:1200px;
+	padding-top:0px;
+	height:660px;
+	background-image:url("../images/fondoresto.png");
+}
+
+#sing{
+	float:right;
+	margin-top:25px;
+
+}
+
+#tittle_about{
+	font-family:Myriad Pro;
+	color:#fc9e07;
+	font-size:40pt;
+	padding-top:50px;
+	margin-left:0px
+}
+
+#texto{
+	margin-top:-20px;
+	float:left;
+  	height:400px;
+  	width:440px;
+  	margin-left:130px;
+}
+
+#decorate{
+	font-size:12pt;
+	font-family:Arial;
+}
+
+#fotohelado{
+	float:right;
+	margin-right:46px;
+	margin-top:57px; 
+}
+
+#man{
+	float:left;
+  	height:50px;
+  	width:440px;
+}
+
+#play{
+  	margin-top:80px; 
+  	margin-left:130px;	
+}
+
+#pie_de_pag{
+	float:left;
+  	height:50px;
+  	width:440px;
+}
+
+#copy{
+  	margin-top:145px; 
+  	margin-left:110px;
+}
